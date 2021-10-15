@@ -6,8 +6,8 @@ We're so glad you found yourselves here!
 
 
 ### The current iteration of Tech-Matrix has two subdivisions :
-* [Project Workbench](https://github.com/Tech-Matrix/Getting-Started/blob/main/README.md#-project-workbench)
-* [Open Source September](https://github.com/Tech-Matrix/Getting-Started/blob/main/README.md#-open-source-september)
+* [Project Workbench](https://github.com/Tech-Matrix#-project-workbench)
+* [Open Source September](https://github.com/Tech-Matrix#-open-source-september)
 
 ### 📌 Project Workbench
 Ever started a project and never bothered to finish it? Struggling with making a habit of seeing it through? Can't seem to make time to build amazing projects to include in your portfolio?
