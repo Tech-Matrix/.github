@@ -21,7 +21,10 @@ That ends with Project Workbench.
 ### :computer: Projects undertaken so far
 #### :white_check_mark: Project 1 - Building 12 Data Science Apps with Streamlit and Python - [Youtube Link](https://www.youtube.com/watch?v=JwSS70SZdyM)
 <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/01/Streamlit_freeCodeCamp.png" alt="drawing" width="400"/><br />
-
+Additional Resources: <br/>
+* [Tutorials of Data Professor on Medium](https://data-professor.medium.com/) <br />
+* [GitHub repo for all 12 projects](https://github.com/dataprofessor/streamlit_freecodecamp) <br />
+* [Streamlit Documentation](https://docs.streamlit.io/)
 
 
 ## 📌 Open Source September
