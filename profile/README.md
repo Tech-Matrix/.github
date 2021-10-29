@@ -9,7 +9,7 @@ We're so glad you found yourselves here!
 * [Project Workbench](https://github.com/Tech-Matrix#-project-workbench)
 * [Open Source September](https://github.com/Tech-Matrix#-open-source-september)
 
-### 📌 Project Workbench
+## 📌 Project Workbench
 Ever started a project and never bothered to finish it? Struggling with making a habit of seeing it through? Can't seem to make time to build amazing projects to include in your portfolio?
 
 That ends with Project Workbench.
@@ -18,7 +18,13 @@ That ends with Project Workbench.
 * Compete and collaborate with other tech enthusiasts to build the most unique creation.
 * Pick up an array of new technologies each week to expand on your skillset and become a versatile developer
 
-### 📌 Open Source September
+### :computer: Projects undertaken so far
+#### :white_check_mark: Project 1 - Building 12 Data Science Apps with Streamlit and Python - [Youtube Link](https://www.youtube.com/watch?v=JwSS70SZdyM)
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/01/Streamlit_freeCodeCamp.png" alt="drawing" width="400"/><br />
+
+
+
+## 📌 Open Source September
 
 A 4-week odyssey of learning and hands-on contribution for beginners to start their open-source journey !
 
