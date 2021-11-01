@@ -18,8 +18,8 @@ That ends with Project Workbench.
 * Compete and collaborate with other tech enthusiasts to build the most unique creation.
 * Pick up an array of new technologies each week to expand on your skillset and become a versatile developer
 
-### :computer: Projects undertaken so far
-#### :white_check_mark: Project 1 - Building 12 Data Science Apps with Streamlit and Python - [Youtube Link](https://www.youtube.com/watch?v=JwSS70SZdyM) <br />
+### :computer: Projects undertaken so far  <br />
+#### :white_check_mark: Project 1 - Building 12 Data Science Apps with Streamlit and Python - [Youtube Link](https://www.youtube.com/watch?v=JwSS70SZdyM) <br /><br />
 <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/01/Streamlit_freeCodeCamp.png" alt="drawing" width="400"/><br /> <br/>
 Additional Resources:
 * [Tutorials of Data Professor on Medium](https://data-professor.medium.com/) <br />
