@@ -24,8 +24,13 @@ That ends with Project Workbench.
 Additional Resources:
 * [Tutorials of Data Professor on Medium](https://data-professor.medium.com/) <br />
 * [GitHub repo for all 12 projects](https://github.com/dataprofessor/streamlit_freecodecamp) <br />
-* [Streamlit Documentation](https://docs.streamlit.io/)
+* [Streamlit Documentation](https://docs.streamlit.io/) <br /> <br />
 
+🏆 The Winning Project  
+  * A text classifier model for emotion detection in text via a Streamlit app. The application is deployed using Heroku. <br />
+  * [Video Demo Link](https://www.youtube.com/watch?v=vfw6i1WlJlY)
+
+<br />
 
 ## 📌 Open Source September
 
