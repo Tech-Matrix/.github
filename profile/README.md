@@ -20,7 +20,7 @@ That ends with Project Workbench.
 
 ### :computer: Projects undertaken so far  <br />
 #### :white_check_mark: Project 1 - Building 12 Data Science Apps with Streamlit and Python - [Youtube Link](https://www.youtube.com/watch?v=JwSS70SZdyM) <br /><br />
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/01/Streamlit_freeCodeCamp.png" alt="drawing" width="400"/><br /> <br/>
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/01/Streamlit_freeCodeCamp.png" alt="data science apps" width="400"/><br /> <br/>
 Additional Resources:
 * [Tutorials of Data Professor on Medium](https://data-professor.medium.com/) <br />
 * [GitHub repo for all 12 projects](https://github.com/dataprofessor/streamlit_freecodecamp) <br />
@@ -31,6 +31,17 @@ Additional Resources:
   * [Video Demo Link](https://www.youtube.com/watch?v=vfw6i1WlJlY)
 
 <br />
+
+#### :white_check_mark: Project 2 - Build a Discord AI Chatbot that Talks Like Your Favorite Character - [Youtube Link](https://www.youtube.com/watch?v=UjDpW_SOrlw) <br /><br />
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/08/lynns-thumbnail.png" alt="discord bot" width="400"/><br /> <br/>
+Additional Resources:
+* [Replit Hosting](https://replit.com/site/hosting) <br />
+* [GitHub repo for the instructor's project](https://github.com/RuolinZheng08/twewy-discord-chatbot) <br />
+* [Sample dataset](https://www.kaggle.com/gulsahdemiryurek/harry-potter-dataset) <br /> <br />
+
+🏆 The Winning Project  
+  * A text classifier model for emotion detection in text via a Streamlit app. The application is deployed using Heroku. <br />
+  * [Video Demo Link](https://www.youtube.com/watch?v=vfw6i1WlJlY)
 
 ## 📌 Open Source September
 
