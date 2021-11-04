@@ -39,9 +39,8 @@ Additional Resources:
 * [GitHub repo for the instructor's project](https://github.com/RuolinZheng08/twewy-discord-chatbot) <br />
 * [Sample dataset](https://www.kaggle.com/gulsahdemiryurek/harry-potter-dataset) <br /> <br />
 
-🏆 The Winning Project  
-  * A text classifier model for emotion detection in text via a Streamlit app. The application is deployed using Heroku. <br />
-  * [Video Demo Link](https://www.youtube.com/watch?v=vfw6i1WlJlY)
+
+<br/>
 
 ## 📌 Open Source September
 
