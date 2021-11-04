@@ -37,7 +37,10 @@ Additional Resources:
 Additional Resources:
 * [Replit Hosting](https://replit.com/site/hosting) <br />
 * [GitHub repo for the instructor's project](https://github.com/RuolinZheng08/twewy-discord-chatbot) <br />
-* [Sample dataset](https://www.kaggle.com/gulsahdemiryurek/harry-potter-dataset) <br /> <br />
+* [Sample dataset](https://www.kaggle.com/gulsahdemiryurek/harry-potter-dataset)
+* [RegEx checking](https://pythex.org/)
+* [FCC Tutorial for a Discord Bot with Python](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/)
+* [FCC Tutorial for a Discord Bot with JavaScript](https://www.freecodecamp.org/news/create-a-discord-bot-with-javascript-nodejs/)   <br /> <br />
 
 
 <br/>
