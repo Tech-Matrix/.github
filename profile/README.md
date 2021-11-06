@@ -59,7 +59,7 @@ What's in store:
 ![Open_Source_September_Schedule](https://user-images.githubusercontent.com/73497800/132090890-e7ec7626-898c-429a-b581-0e9a580dbfbf.png)
 
 
-#### :trophy: The winners of the first iteration of OSS
-[Vedanth V Baliga](https://github.com/vedanthv)<br />
-[Amulya Shetty](https://github.com/amulyaashetty) <br /> <br />
-[Link to the leaderboard](https://newolf-oss-leaderboard-frontend.vercel.app)
+#### :trophy: The winners of the first iteration of OSS - [Link to the leaderboard](https://newolf-oss-leaderboard-frontend.vercel.app)
+* [Vedanth V Baliga](https://github.com/vedanthv)<br />
+* [Amulya Shetty](https://github.com/amulyaashetty) <br /> <br />
+
