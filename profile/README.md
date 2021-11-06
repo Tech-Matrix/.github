@@ -26,7 +26,7 @@ Additional Resources:
 * [GitHub repo for all 12 projects](https://github.com/dataprofessor/streamlit_freecodecamp) <br />
 * [Streamlit Documentation](https://docs.streamlit.io/) <br /> <br />
 
-🏆 The Winning Project  
+🏆 The Winning Project [ by [Chaitra Bhat](https://github.com/Chaitra-Bhat383) ]
   * A text classifier model for emotion detection in text via a Streamlit app. The application is deployed using Heroku. <br />
   * [Video Demo Link](https://www.youtube.com/watch?v=vfw6i1WlJlY)
 
