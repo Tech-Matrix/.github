@@ -42,7 +42,7 @@ Additional Resources:
 * [FCC Tutorial for a Discord Bot with Python](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/)
 * [FCC Tutorial for a Discord Bot with JavaScript](https://www.freecodecamp.org/news/create-a-discord-bot-with-javascript-nodejs/)   <br /> <br />
 
-🏆 The Winning Project
+🏆 The Winning Project [ by [T Navya](https://github.com/Navya-tayi) ]
   * Using AI to create a group-chat of bots impersonating Tony Stark, Chandler Bing and Rachel Green ! <br />
   * [Video Demo Link](https://www.youtube.com/watch?v=dPqKCDfS0Kc)
   * [Check out her code here !](https://github.com/Navya-tayi/Coding-a-Discord-Chat-Bot-That-Talks-Like-Your-Favorite-Character.git)
