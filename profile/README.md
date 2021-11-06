@@ -29,6 +29,7 @@ Additional Resources:
 🏆 The Winning Project [ by [Chaitra Bhat](https://github.com/Chaitra-Bhat383) ]
   * A text classifier model for emotion detection in text via a Streamlit app. The application is deployed using Heroku. <br />
   * [Video Demo Link](https://www.youtube.com/watch?v=vfw6i1WlJlY)
+  * [Check out her code here !](https://github.com/Chaitra-Bhat383/NLP-Text-Classifier)
 
 <br />
 
@@ -45,7 +46,7 @@ Additional Resources:
 🏆 The Winning Project [ by [T Navya](https://github.com/Navya-tayi) ]
   * Using AI to create a group-chat of bots impersonating Tony Stark, Chandler Bing and Rachel Green ! <br />
   * [Video Demo Link](https://www.youtube.com/watch?v=dPqKCDfS0Kc)
-  * [Check out her code here !](https://github.com/Navya-tayi/Coding-a-Discord-Chat-Bot-That-Talks-Like-Your-Favorite-Character.git)
+  * [Check out her code here !](https://github.com/Navya-tayi/Coding-a-Discord-Chat-Bot-That-Talks-Like-Your-Favorite-Character)
 
 <br/>
 
