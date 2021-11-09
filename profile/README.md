@@ -55,7 +55,9 @@ Additional Resources:
 Additional Resources:
 * [Django documentation](https://docs.djangoproject.com/en/3.2/) <br />
 * [GitHub repo for the URL Shortener project](https://github.com/tomitokko/django_url_shortner) <br />
-* [Deploying a Django App on Heroku - Tutorial](https://www.codementor.io/@jamesezechukwu/how-to-deploy-django-app-on-heroku-dtsee04d4) <br /> <br />
+* [Deploying a Django App on Heroku - Tutorial](https://www.codementor.io/@jamesezechukwu/how-to-deploy-django-app-on-heroku-dtsee04d4) <br />
+* [Find Free Domains](https://www.freenom.com/en/index.html?lang=en) <br />
+* [More CodeWithTomi tutorials on YouTube](https://youtube.com/c/CodeWithTomi)<br /> <br />
 
 <br />
 
