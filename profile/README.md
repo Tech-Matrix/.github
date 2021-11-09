@@ -50,6 +50,15 @@ Additional Resources:
 
 <br/>
 
+#### :white_check_mark: Project 3 - Build Three Django Projects - [Youtube Link](https://youtu.be/qPtScmB8CgA) <br /><br />
+<img src="https://images-ext-1.discordapp.net/external/CtegdSPFnc0GzpyzY07KnbL1A8triKZp2QI6VeYWti0/https/i.ytimg.com/vi/qPtScmB8CgA/maxresdefault.jpg" alt="data science apps" width="400"/><br /> <br/>
+Additional Resources:
+* [Django documentation](https://docs.djangoproject.com/en/3.2/) <br />
+* [GitHub repo for the URL Shortener project](https://github.com/tomitokko/django_url_shortner) <br />
+* [Deploying a Django App on Heroku - Tutorial](https://www.codementor.io/@jamesezechukwu/how-to-deploy-django-app-on-heroku-dtsee04d4) <br /> <br />
+
+<br />
+
 ## 📌 Open Source September
 
 A 4-week odyssey of learning and hands-on contribution for beginners to start their open-source journey !
