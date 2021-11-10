@@ -70,6 +70,7 @@ Additional Resources:
 <br />
 
 ### :computer: A few other interesting projects <br />
+Some really cool project tutorials from [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) that we thought could be worth your while ! <br />
 - [Markdown previewer in Vue.JS](https://youtu.be/i3_I6asZSkY)
 - [Doodle jump and flappy bird](https://youtu.be/8xPsg6yv7TU)
 - [A Flutter production app](https://youtu.be/aiTTClKJbnw)
@@ -79,6 +80,8 @@ Additional Resources:
 - [Blockchain using solidity](https://youtu.be/coQ5dg8wM2o)
 - [Rock Paper Scissors using JS](https://youtu.be/jaVNP3nIAv0)
 - [APIs for beginners](https://youtu.be/GZvSYJDk-us)
+
+<br /> <br />
 
 ## 📌 Open Source September
 
