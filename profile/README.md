@@ -61,8 +61,11 @@ Additional Resources:
 
 🏆 The Winning Project [ by [Thejas N U](https://github.com/ThejasNU) and [Amulya Shetty](https://github.com/amulyaashetty) ]
   * A To-Do CRUD Django App complete with priority picking, drag-and-drop and search functionality !<br />
-  * [Video Demo Link](https://www.youtube.com/watch?v=dPqKCDfS0Kc)
-  * Check out their code [here](https://github.com/Navya-tayi/Coding-a-Discord-Chat-Bot-That-Talks-Like-Your-Favorite-Character) and here !
+  * Video Demo
+    * [Demo by Thejas](https://drive.google.com/file/d/1adYqC33cExryiOuS3teaj8W5JEw6j2DH/view?usp=sharing)
+    * [Demo by Amulya](https://drive.google.com/file/d/1_tFN-Igv5v55NPcs_GyW_gFjHzkW26En/view?usp=drivesdk)
+  * Check out their code [here](https://github.com/ThejasNU/todo-list) and [here](https://github.com/amulyaashetty/TODO-Application) !
+
 
 <br />
 
