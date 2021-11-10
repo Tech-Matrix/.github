@@ -59,6 +59,11 @@ Additional Resources:
 * [Find Free Domains](https://www.freenom.com/en/index.html?lang=en) <br />
 * [More CodeWithTomi tutorials on YouTube](https://youtube.com/c/CodeWithTomi)<br /> <br />
 
+🏆 The Winning Project [ by [Thejas N U](https://github.com/ThejasNU) and [Amulya Shetty](https://github.com/amulyaashetty) ]
+  * A To-Do CRUD Django App complete with priority picking, drag-and-drop and search functionality !<br />
+  * [Video Demo Link](https://www.youtube.com/watch?v=dPqKCDfS0Kc)
+  * Check out their code [here](https://github.com/Navya-tayi/Coding-a-Discord-Chat-Bot-That-Talks-Like-Your-Favorite-Character) and here !
+
 <br />
 
 ## 📌 Open Source September
