@@ -69,6 +69,17 @@ Additional Resources:
 
 <br />
 
+### :computer: A few other interesting projects <br />
+- [Markdown previewer in Vue.JS](https://youtu.be/i3_I6asZSkY)
+- [Doodle jump and flappy bird](https://youtu.be/8xPsg6yv7TU)
+- [A Flutter production app](https://youtu.be/aiTTClKJbnw)
+- [Covid-19 tracker app using Kotlin](https://youtu.be/4gMDR69DB6A)
+- [GPS app](https://youtu.be/_xUcYfbtfsI)
+- [FastAPI course](https://youtu.be/tLKKmouUams)
+- [Blockchain using solidity](https://youtu.be/coQ5dg8wM2o)
+- [Rock Paper Scissors using JS](https://youtu.be/jaVNP3nIAv0)
+- [APIs for beginners](https://youtu.be/GZvSYJDk-us)
+
 ## 📌 Open Source September
 
 A 4-week odyssey of learning and hands-on contribution for beginners to start their open-source journey !
